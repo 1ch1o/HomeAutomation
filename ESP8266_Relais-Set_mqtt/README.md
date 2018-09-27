@@ -1,7 +1,8 @@
 # ESP8266 Relais-Set MQTT
 
 A simple example how to use a Relais-Set with the ESP8266.\
-The code mainly uses code from [mertenats' Open-Home-Automation repository](https://github.com/mertenats/Open-Home-Automation)
+The code mainly uses code from [mertenats' Open-Home-Automation repository](https://github.com/mertenats/Open-Home-Automation)\
+check it out, there are a lot more mqtt-setups for HomeAssistant.
 
 ![alt text](https://ae01.alicdn.com/kf/HTB1I8deby6guuRjy0Fmq6y0DXXaR/ESP8266-5-v-WiFi-relais-modul-Dinge-smart-home-fernbedienung-schalter-telefon-APP.jpg_640x640.jpg)
 #### You Need:
