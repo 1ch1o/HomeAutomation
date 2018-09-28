@@ -18,3 +18,8 @@ check it out, there are a lot more mqtt-setups for HomeAssistant.
     add a board-manager-URL to your IDE as shown [here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).\
     I suggest to look at this [instructable](https://www.instructables.com/id/ESP8266-Programming-Using-FTDI-and-Arduino-IDE/).\
     Befor Flashing check if FlashMode is set to DOUT.
+    
+    
+ My Upload Settings in the Arduino IDE are these:
+ NOTE: You maybe have to change the COM-Port.
+ ![alt_text](https://github.com/1ch1o/HomeAutomation/blob/master/ESP8266_Relais-Set_mqtt/UploadSettings.png)
