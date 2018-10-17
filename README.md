@@ -14,3 +14,5 @@ Arduino IDE-Script to turn ON and OFF a "Relais-Set ESP8266" as MQTT-Client. (no
 Arduino IDE-Script to turn ON and OFF a "Relais-Set ESP8266" as MQTT-Client. (no soldering on Relais-Set required)
 Added OTA Support and rewrote debug lines
 
+##### [ESP32_ble_mqtt bridge with ota](https://github.com/1ch1o/HomeAutomation/tree/master/ESP32_ble_mqtt_bridge)
+
